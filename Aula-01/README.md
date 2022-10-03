@@ -22,19 +22,19 @@ Python foi feita para ser uma linguagem simples, flexível de fácil aprendizado
 
 ## Aplicabilidade
 
-**Script de Automação:**
+### Script de Automação:
 
 O Python é utilizado para desenvolver scripts que automatizam algumas tarefas, desde a captação de dados até a geração randômica de  imagens
 
-**Desenvolvimento WEB:**
+### Desenvolvimento WEB:
 
 A linguagem é amplamente utilizada no desenvolvimento de sites através de alguns frameworks como Django, flask e FastAPI
 
-**Big Data:**
+### Big Data:
 
 Análise e interpretação de um grande volume de dados , o Python é uma das linguagens mais utilizadas nesse campo. Com o Python é possível analisar , processar e exibir dados com uma enorme eficiência.
 
-**Computação Gráfica:**
+### Computação Gráfica:
 
 Grandes estúdios de Hollywood utilizam python na criação de efeitos especiais como é o exemplo da Industrial Light & Magic  uma empresa de efeitos especiais responsáveis pela parte gráfica de filmes como os da saga Star Wars.
 
@@ -42,15 +42,15 @@ Grandes estúdios de Hollywood utilizam python na criação de efeitos especiais
 
 ## Vantagens em utilizar Python
 
-**Aprendizagem Fácil:**
+### Aprendizagem Fácil:
 
 A linguagem possui uma sintaxe muito simples e limpa, o que torna sua curva de aprendizagem muito baixa.
 
-**Portátil e Multiplataforma:**
+### Portátil e Multiplataforma:
 
 Python roda em diversos sistemas Operacionais, em alguns, inclusive, vem pré instalada como é o exemplo da maioria dos sistemas Linux. Python também possui um número muito grande de bibliotecas públicas, o que aumenta sua versatilidade.
 
-**É OpenSource e Gratuito:**
+### É OpenSource e Gratuito:
 
 Python é completamente grátis para instalar e desenvolver, basta aprender e pôr a mão na massa. 
 
@@ -58,13 +58,13 @@ Python é completamente grátis para instalar e desenvolver, basta aprender e p�
 
 ## Empresas que utilizam Python
 
->Spotfy
->Dropbox
->Airbnb
->Uber
->Facebook
->Pinterest
->Instagram
+* Spotfy
+* Dropbox
+* Airbnb
+* Uber
+* Facebook
+* Pinterest
+* Instagram
 
 ---
 
@@ -82,15 +82,15 @@ O mercado está aquecido, segundo uma pesquisa realizada pela Brasscom, a busca 
 
 ## Empregos para quem usa Python.
 
-**Desenvolvedor de Software:**
+### Desenvolvedor de Software:
 
 As empresas estão contratando para as mais diversas áreas como indústria de jogos, big data, testes de software, Mobile, Protótipo de sistemas e etc.
 
-**Desenvolvedor FullStack:**
+### Desenvolvedor FullStack:
 
 Um desenvolvedor Full Stack é capaz de trabalhar e compreender todas as camadas de um projeto, desde a criação de servidores até a interação direta com o usuários.
 
-**Desenvolvimento Front End:**
+### Desenvolvimento Front End:
 
 Um desenvolvedor Front End está trabalhando com a parte que interage diretamente com o usuário, a parte visual do projeto.   A linguagem mais popular nessa área é o  Javascript.
 
