@@ -11,6 +11,7 @@ Repositório destinado a organizar o conteúdo teórico bem como listas de exerc
  
  
  ***
+ <!--
  ## :snake: Aula 02
 
  * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Aula02.ipynb)
@@ -69,7 +70,7 @@ Repositório destinado a organizar o conteúdo teórico bem como listas de exerc
 * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula12/Teoria_Aula012.md) 
 * [E Agora??!!](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula12/E_Agora.md) 
 
-
+-->
 
 
 
