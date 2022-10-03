@@ -1,10 +1,10 @@
 <p align = "center">
-<img src="https://github.com/Evaldo-comp/Python-Mombaca/blob/main/banner.gif" widt="350px" height="320px">
+<img src="" widt="350px" height="320px">
 </p>
 
-Repositório destinado a organizar a disciplina de Linguagem de Programação I a ser ministrada para turma de Licenciatura em Computação da UECE_FECLI Campus avançado de Mombaça
+Repositório destinado a organizar o conteúdo teórico bem como listas de exercícios da disciplina de Lógica de Programação do curso médio integrado da EEEP João Jackson Lobo Guerra.
 
-## :snake: Aula 01
+## :snake: SEMANA 01
 
  * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/README.md)
  * [Slide ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/SLIDE-AULA01.pdf)
