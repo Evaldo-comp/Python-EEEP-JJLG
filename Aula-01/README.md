@@ -7,94 +7,99 @@ Python é uma linguagem de progamação criada por [Guido van Rossum](https://pt
  
  ---
  
-## Preparação de Ambiente:
+## O Nome:
 
-**Verificação da versão instalada:**
-Primeiramente deve-se verificar se não há nenhuma versão instalada no seu computador com o comando ```python --version``` no terminal. A versão que será utilizada, será 3.9 ou 3.8.
 
-**Instalação do Python:**
-
-Normalmente distros linux já vem com o Python pré instalado, mas caso você não tenha ainda a versão mais recente na sua máquina siga os passos seguintes para realizar a instalação:
-
-**1. Primeiramente adicione o repositório do programa:** Digite a seguinte  linha de comando no seu terminal.
-```
- sudo add-apt-repository ppa:deadsnakes/pp
-```
-**2. Atualize o gerenciador de pacotes:** 
-```
- sudo apt-get update
-```
-
-**3. Instalando o Python:** 
-```
-sudo apt-get install python3.8
-# você pode alterar a versão conforme a disponibilidade da mesma
-```
-
-**4. Para desinstalar, adicione as duas linhas seguintes:** 
-```
-sudo add-apt-repository ppa:deadsnakes/ppa -r -y
-sudo apt-get upgrade
-
-```
----
-## Instalando a IDE:
-A Interface de Desenvolvimento que iremos utilizar é o Visual Studio Code. Em algumas distros Linux ela pode aparecer no repositório de programas nativos do Sistema, caso isso não aconteça, não precisa perder a cabeça, basta acessar o link abaixo que lá você vai encontrar vários caminhos para a instalação em várias distribuições diferentes.<br>
-[Instalação do VSCode](https://code.visualstudio.com/docs/setup/linux)
+O nome da linguagem não vem da cobra, apesar do logo ser duas cobras entrelaçadas, o nome veio de uma programa de humor dos anos 70, o qual Rossun era fã esse programa era e ainda é muito aclamado na inglaterra e no mundo e chama-se Fly Circus de Monty Python e tem na Netflix nesta data (03-10-2022)
 
 ---
 
-## Criando seu GitHub:
+## Principais características da linguagem
 
-Nesta etapa você vai criar uma conta do **GitHub**, caso você já tenha uma, passe para a próxima etapa. 
-
-Criando o repositório da nossa disciplina: Você irá criar um repostória para armazenar os conteúdos, listas e desafios que irá executar durante a disciplina. Tanto a criação de repositórios quanto a utilização de outras funcionaliddes mais especificas podem ser aprendidas lendo a documentação que você pode acessar no link abaixo.<br>
-:link:[GitHub Docs](https://docs.github.com/pt/github/getting-started-with-github/quickstart)
+Python foi feita para ser uma linguagem simples, flexível de fácil aprendizado, é uma linguagem de alto nível interpretada e com uma vasta gama de Bibliotecas disponíveis para os mais diversos tipos de aplicabilidade. Por ser uma linguagem simples, ganhou espaço dentro das universidades como uma das principais linguagens utilizadas para o aprendizado de lógica de programação, além das salas de aulas, o Python foi adotado por profissionais das mais diversas áreas, desde a medicina até engenharia.
 
 ---
 
-## instalando o Git:
-Para que você possa vincular sua IDE ao seu repositório remoto no GitHub, será necessário ter o Git devidamente instalado e configurado na sua máquina. Abra o terminal e digite a seguinte linha de comando ```git --version```, essa linha irá verificar se você tem alguma versão do Git instalado, caso tenha, ela retornará essa versão,caso contrário, apareceŕá alguma mensagem de erro, no segundo caso você terá que proceder com a instalação. Esse processo  pode ser verificado no link abaixo:
+## Aplicabilidade
 
-:link:  [Instalando o Git](https://git-scm.com/download/linux)
+**Script de Automação:**
 
-## Configurar seu nome de usuário no Git:
+O Python é utilizado para desenvolver scripts que automatizam algumas tarefas, desde a captação de dados até a geração randômica de  imagens
 
-Uma das primeiras coisas que você deve fazer depois que instalar o Git, é configurar seu nome de usuário nom computador local, para isso, siga as instruções a seguir no link:<br>
-:link:  [Configurando nome de Usuário](https://docs.github.com/pt/github/using-git/setting-your-username-in-git)<br>
+**Desenvolvimento WEB:**
 
-## Configurando o endereço de E-mail:
+A linguagem é amplamente utilizada no desenvolvimento de sites através de alguns frameworks como Django, flask e FastAPI
 
-Você irá precisar associar um endereço de e-mail ao seu Git para que seja possivel associar o GitHub ao seu repositório local, esse processo pode ser verificado no link que segue<br>
-:link:  [Configurando endereço de E-mail](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
+**Big Data:**
 
----
+Análise e interpretação de um grande volume de dados , o Python é uma das linguagens mais utilizadas nesse campo. Com o Python é possível analisar , processar e exibir dados com uma enorme eficiência.
 
-## Vinculando VSCode ao GitHub:
-Com o VSCode instalado e o repostório do GitHub criado, você vai vincular a sua IDE a sua conta no GitHub. O passo a passo desse processo está detalhado nos links que seguem:
+**Computação Gráfica:**
 
-:link: [Integrando VSCode ao Git: Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-pt)
-
-:link: [Integrando VSCode ao Git: Microsoft](https://docs.microsoft.com/pt-br/learn/modules/use-git-from-vs-code/)
+Grandes estúdios de Hollywood utilizam python na criação de efeitos especiais como é o exemplo da Industrial Light & Magic  uma empresa de efeitos especiais responsáveis pela parte gráfica de filmes como os da saga Star Wars.
 
 ---
 
-## Finalizando:
-Como você pode notar, muitos dos links utilizados nessa preparação, são links para documentação oficial das ferramentas. Crie o hábito de visitar a documentação oficial, pois é lá que podemos verificar updates oficiais, detalhes da ferramenta ou linguagem e etc. Ao fim dessa aula você deverá ter feito o seguinte:
-1. Python instalado
-2. Visual Studio Code Instalado
-3. Git instalado
-4. Conta no GitHub Criada
-5. Repositório pessoal da disciplina criada e clonada
-6. Git configurado
-7. Integração entre Git e Vscode realizada
+## Vantagens em utilizar Python
 
- ### Referências
- > [https://www.devmedia.com.br/guia/python/37024](https://www.devmedia.com.br/guia/python/37024)
- 
- > [https://python.org.br/](https://python.org.br/)
- 
- > [https://docs.github.com/pt](https://docs.github.com/pt)
+**Aprendizagem Fácil:**
+
+A linguagem possui uma sintaxe muito simples e limpa, o que torna sua curva de aprendizagem muito baixa.
+
+**Portátil e Multiplataforma:**
+
+Python roda em diversos sistemas Operacionais, em alguns, inclusive, vem pré instalada como é o exemplo da maioria dos sistemas Linux. Python também possui um número muito grande de bibliotecas públicas, o que aumenta sua versatilidade.
+
+**É OpenSource e Gratuito:**
+
+Python é completamente grátis para instalar e desenvolver, basta aprender e pôr a mão na massa. 
+
+---
+
+## Empresas que utilizam Python
+
+>Spotfy
+>Dropbox
+>Airbnb
+>Uber
+>Facebook
+>Pinterest
+>Instagram
+
+---
+
+## Quanto tempo demora para aprender Python?
+
+Isso vai variar dependendo da frequência e interesse do aprendiz, mas se a pessoa já tiver uma base de lógica de programação é possível aprender python em apenas algumas semanas.
+
+---
+
+## O mercado de trabalho para quem programa em Python.
+
+O mercado está aquecido, segundo uma pesquisa realizada pela Brasscom, a busca por profissionais de TI é de 420 mil pessoas , até ́2024 só no Brasil. Em contrapartida, o país forma por ano cerca de 46 mil profissionais com o perfil tecnológico. 
+
+---
+
+## Empregos para quem usa Python.
+
+**Desenvolvedor de Software:**
+
+As empresas estão contratando para as mais diversas áreas como indústria de jogos, big data, testes de software, Mobile, Protótipo de sistemas e etc.
+
+**Desenvolvedor FullStack:**
+
+Um desenvolvedor Full Stack é capaz de trabalhar e compreender todas as camadas de um projeto, desde a criação de servidores até a interação direta com o usuários.
+
+**Desenvolvimento Front End:**
+
+Um desenvolvedor Front End está trabalhando com a parte que interage diretamente com o usuário, a parte visual do projeto.   A linguagem mais popular nessa área é o  Javascript.
+
+---
+
+## Conclusão
+
+Python é uma linguagem fácil e versátil, entrega várias possibilidades, mas é importante que após aprender o básico você foque em uma área, pois as bibliotecas são várias e bem extensas. 
+
 ---
 :house: [Home](https://github.com/Evaldo-comp/Python-Mombaca)
 ---
