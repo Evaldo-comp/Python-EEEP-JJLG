@@ -13,3 +13,33 @@ fortemente tipadas, a declaração de uma variável deve ser composta pelo tipo 
 
 ` idade = 25 `
 
+---
+
+## Operadores Relacionais
+
+|Operador|Operação|Símbolo Matemático|
+|--------|---------|-----------------|
+|    ==  |Igualdade|       =         |
+|   >    | maior que|      >         |
+|   <    |menor que|       <         |
+|   !=   | diferente|      #         |
+|   >=   | maior ou igual|   >=     |
+|   <=    | menor ou igual|   <=     |
+
+Ao realizar-mos a camparação de dados utilizando operadores relacionais, obteremos outro tipo de dado chamado Booleano (True ou False).
+
+---
+
+## Formatação da saída de strings
+ As versões mais recentes de Python melhoram bastante o estilo de formação da saida de dados cocatenados e inseridos dentro de uma string. Basta seguir o exemplo.
+ 
+ ```
+ # Format strings
+
+nome = "Evaldo"
+idade = 23
+Altura = 1.75
+
+print(f"Olá {nome} você tem  {idade} anos e mede {Altura}")
+```
+
