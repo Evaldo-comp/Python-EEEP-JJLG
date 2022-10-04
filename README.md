@@ -6,8 +6,10 @@ Repositório destinado a organizar o conteúdo teórico bem como listas de exerc
 
 ## :snake: SEMANA 01
 
- * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-EEEP-JJLG/tree/main/Aula-01)
- * [Slide ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/SLIDE-AULA01.pdf)
+ * [Conteúdo Teórico 1](https://github.com/Evaldo-comp/Python-EEEP-JJLG/tree/main/Aula-01)
+ * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula-01/Conte%C3%BAdo-SEM1.md)
+ * [Exemplos e Exercícios ]https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula-01/Exemplos-SEM1.md)
+ 
  
  
  ***
