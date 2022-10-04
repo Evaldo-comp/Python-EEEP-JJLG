@@ -95,5 +95,5 @@ e suas respectivas notas.
 
 
 ---
-:house:[Home]([https://github.com/Evaldo-comp/Python-Mombaca](https://github.com/Evaldo-comp/Python-EEEP-JJLG))
+:house:[Home](https://github.com/Evaldo-comp/Python-EEEP-JJLG)
 ---
