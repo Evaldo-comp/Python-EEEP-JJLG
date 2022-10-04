@@ -1,67 +1,82 @@
 
-# Lista Aula02 - Sintaxe
+## Saída de dados e variáveis
 
 
 
-1 - Converta as seguintes expressões matemáticas para que possam ser calculadas usando Python:
-  - 10 + 20 x 30
-  - 4² / 3
-  - (9⁴ + 2) x 6 -1
-  - (9⁴ + 2)⁴ + ( 10 / 1)
+### 1 - Escreva um programa que imprima na tela o seu nome.
+
+```
+# Imprime um nome na tela
+
+print("Evaldo")
+```
+---
+### 2 - Crie uma variável para armazenar seu nome e em seguida imprima uma mensagem de boas vindas seguida de seu nome.
+```
+# Mensagem de boas vindas
+
+nome = "Evaldo"
+print("Olá ", nome)
+```
+---
+
+### 3 - Declare duas variáveis e atribua um número a cada uma delas, em seguida mostre a soma das duas variáveis.
+```
+# Soma de dois números
+
+n1 = 12
+n2 = 13
+
+
+print(12 + 13)
+```
+---
+### 4 - Escreva um programa que mostre o resultado de 2a x 3b onde a = 4 e b = 5.
+```
+# Produto de 2a x 3b
+
+a = 4
+b = 5
+
+print((2*a) * (3*b))
+```
+---
+
+### 5 - Crie 5 variáveis, cada uma com um valor diferente e use a função print() para mostrar o resultado da comparação entre essas variáveis. Utilize todos
+os operadores relacionais.
+```
+# Teste com operadores relacionais
+
+a = 4
+b = 5
+c = 2
+d = 6
+
+print(a == b)
+print(b != b)
+print(c > d)
+print(a >= b)
+print(a <= b)
+```
+---
+
+### 6 - Crie um programa que imprima uma frase contendo seu nome, idade, cidade onde mora e melhor amigo(a). A mensagem deve estar dentro de uma única string
+e conter pelo menos 4 variáveis.
+```
+# Apresentação
+
+nome = "Evaldo"
+idade = 23
+cidade = "Maranguape"
+amigo = "Pedro"
+
+print(f"Olá {nome} você tem  {idade} anos mora em {cidade} e seu melhor amigo é {amigo}")
+``` 
 
 ---
 
-2 - Escreva uma função que receba dois números como argumento e retorne  o produto do dobro do primeiro pelo triplo do segundo
 
----
 
-3 - Crie uma função que retorne o resto da divisão do resultado da função da questão anterior por 2
-
----
-
-4 - Escreva uma função para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro, a função deverá retornar  quantos dias de vida um fumante perderá. Exiba o total em dias.
-
----
-
-5 - Escreva uma função que receba como argumento a quantidade de Km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. A função deve retornar o preço a pagar, sabendo que o carro custa `R$ 60,00` por dia e `R$ 0,15` por km rodado.
-
----
-
-6 - Suponha que o preço de capa de um livro seja 24.95.  mas as livrarias recebem um desconto de 40%. O transporte custa  3.00 para o primeiro exemplar e 75 centavos para cada exemplar adicional. Qual é o custo total de atacado para 60 copias?
-
----
-
-7 - Escreva uma função que receba a idade do usuário e indique se ele pode ou não encher a cara de cachaça.
-
----
-
-8 - P = True e Q = False. Aplique De Morgan na seguinte proposição e atribua o valor a uma variável - ~(p ^ (p v q)), essa variável deve ser retornada partir  de uma função
-
----
-
-9 - Crie uma função que receba duas strings e retorne True se o número de elementos de uma for igual ao da outra, e retorne False caso contrário.Pesquise pelo método `len()` na documentação do Python.
-
----
-
-10 - Se eu sair da minha casa às 6:52 e correr 1 quilômetro a um certo passo(8min15s por quilômetro), então 3 quilômetros a uma passo mais rápido(7min12s por quilômetro) e 1 quilômetro no mesmo passo usado em primeiro lugar, que horas chego em casa para o café da manhã?
-
----
-
-11- Escreva um programa que receba as medidas dos lados de um triângulo e calcule sua área e perímetro.
-
----
-
-12 - Esreva uma função que receba a medida do raio e calcule a área e perímetro de uma circuferência.
-
----
-
-13 - Crie uma função que resolva a seguinte equação do segundo grau `X² + 3x +3 = 0`. Dica para calcular a raiz quadrada -> num ** 0.5
-
----
-
-14 - Um fazendeiro cria Galinhas, Vacas e Porcos. Escreva uma função que receba a quantidade de cada animal que o fazendeiro possui atualmente e retorne quantas patas tem na fazenda.
-
----
 
 
 
