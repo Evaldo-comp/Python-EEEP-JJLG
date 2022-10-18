@@ -64,3 +64,6 @@ altura = float(input("Digite sua altura\n"))
 nome = input("Digite seu nome\n")
 print(f"Olá {nome}, tudo bem?, você tem {idade} e {altura} de altura")
 ```
+
+:house: [Home](https://github.com/Evaldo-comp/Python-EEEP-JJLG)
+
