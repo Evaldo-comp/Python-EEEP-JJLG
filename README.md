@@ -4,7 +4,7 @@
 
 Repositório destinado a organizar o conteúdo teórico bem como listas de exercícios da disciplina de Lógica de Programação do curso médio integrado da EEEP João Jackson Lobo Guerra.
 
-## :snake: SEMANA 01
+## :snake: SEMANA 01 - Entrada e saída de dados, casting, operadores
 
  * [Conteúdo Teórico 1](https://github.com/Evaldo-comp/Python-EEEP-JJLG/tree/main/Aula-01)
  * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula-01/Conte%C3%BAdo-SEM1.md)
