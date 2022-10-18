@@ -8,22 +8,30 @@ Repositório destinado a organizar o conteúdo teórico bem como listas de exerc
 
  * [Conteúdo Teórico 1](https://github.com/Evaldo-comp/Python-EEEP-JJLG/tree/main/Aula-01)
  * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula-01/Conte%C3%BAdo-SEM1.md)
+ * [Conteúdo Teórico 3](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Aula02.ipynb)
  * [Exemplos e Exercícios ](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula-01/Exemplos-SEM1.md)
  
+ ---
+ 
+ ## :snake: SEMANA 02 - Condicionais e condicionais aninhadas
+
+ * [Conteúdo Teórico 1]( https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Condicionais_aninhadas.ipynb)
+ * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula-01/Conte%C3%BAdo-SEM1.md)
+ * [Exemplos e Exercícios ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Lista_Aula03.md)
+ 
+  ---
+ 
+ ## :snake: SEMANA 03 - Repetições
+
+ * [Conteúdo Teórico 1](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Repeti%C3%A7%C3%B5es.ipynb)
+ * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Teoria.md)
+ * [Exemplos e Exercícios ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Lista_Aula03.md)
  
  
  ***
  <!--
- ## :snake: Aula 02
+ 
 
- * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Aula02.ipynb)
- * [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Lista01_Aula02..md)
-
-***
- ## :snake: Aula 03
-
- * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Teoria.md)
- * [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Lista_Aula03.md)
   
 ***
 ## :snake: Aula 04
