@@ -16,8 +16,8 @@ Repositório destinado a organizar o conteúdo teórico bem como listas de exerc
  ## :snake: SEMANA 02 - Condicionais e condicionais aninhadas
 
  * [Conteúdo Teórico 1]( https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Condicionais_aninhadas.ipynb)
- * [Conteúdo Teórico 2]()
- * [Exemplos e Exercícios ]()
+ * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Aula03/Teoria.md)
+ * [Exemplos e Exercícios ](Em breve)
  
   ---
  
@@ -25,7 +25,7 @@ Repositório destinado a organizar o conteúdo teórico bem como listas de exerc
 
  * [Conteúdo Teórico 1](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/Repeti%C3%A7%C3%B5es.ipynb)
  * [Conteúdo Teórico 2](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Teoria.md)
- * [Exemplos e Exercícios ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula03/Lista_Aula03.md)
+ * [Exemplos e Exercícios ](Em breve)
  
  
  ***
